@@ -1,0 +1,13 @@
+Reporte con la cantidad de vehículos estacionados según el tipo de usuario.
+
+Personal administrativo: 9
+Profesores: 8
+Estudiantes: 3
+Visitantes: 0
+
+Reporte de cantidad de vehículos estacionados según el tipo de vehículo.
+
+Automovil: 3
+Automovil electrico: 4
+Motocicleta: 8
+Discapacitado: 5
